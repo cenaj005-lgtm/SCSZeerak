@@ -1,1 +1,7 @@
 1.0.0.8
+
+Added Stock Report
+Minimum Stock, Low Stock, Fast Moving Stock, Negative Stocks
+Returned Stocks
+Complete Stocks or All Stocks,
+and many more
