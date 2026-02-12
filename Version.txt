@@ -1,3 +1,6 @@
+1.0.1.0
+Fixed Thermal Printer Bugs
+
 1.0.0.8
 
 Added Stock Report
