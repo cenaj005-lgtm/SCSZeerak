@@ -1,4 +1,8 @@
 1.0.1.0
+Added Discount Settings in invoice
+* Fixed License issue for trial Version
+
+1.0.1.0
 Fixed Thermal Printer Bugs
 
 1.0.0.8
