@@ -1,6 +1,7 @@
 1.0.1.2
-Updated Settings form, Added Available QTY Settings in invoice settings
-Added Available QTY in Invoice form
+Added Expenses
+Updated Settings form Added settings for AvailableQTY in Invoice form
+Updated Invoice form, added Availble QTY 
 
 1.0.1.1
 Added Discount Settings in invoice
