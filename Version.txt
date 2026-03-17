@@ -1,6 +1,8 @@
 1.0.1.4
+Added Expense Report
+
+1.0.1.4
 Fixed some bugs in Invoice form
-Fixed Antivirus Detection while updating
 
 1.0.1.3
 Fixed some bugs in sales report
