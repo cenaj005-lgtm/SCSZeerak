@@ -1,3 +1,6 @@
+1.0.1.7
+Added Smart Search option in Settings
+
 1.0.1.6
 Added Discount 2 in invoice, Added Stock reports Export options
 
