@@ -1,3 +1,6 @@
+1.0.1.9
+Fixed Invoice QTY And Price bugs
+
 1.0.1.7
 Added Smart Search option in Settings
 
