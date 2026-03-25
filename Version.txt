@@ -1,3 +1,6 @@
+1.0.2.1
+Fixed bugs in purchase 
+
 1.0.2.0
 Added Invoice to pdf
 
@@ -7,34 +10,4 @@ Fixed Invoice QTY And Price bugs
 1.0.1.7
 Added Smart Search option in Settings
 
-1.0.1.6
-Added Discount 2 in invoice, Added Stock reports Export options
 
-1.0.1.5
-Added Expense Report
-
-1.0.1.4
-Fixed some bugs in Invoice form
-
-1.0.1.3
-Fixed some bugs in sales report
-
-1.0.1.2
-Added Expenses
-Updated Settings form Added settings for AvailableQTY in Invoice form
-Updated Invoice form, added Availble QTY 
-
-1.0.1.1
-Added Discount Settings in invoice
-* Fixed License issue for trial Version
-
-1.0.1.0
-Fixed Thermal Printer Bugs
-
-1.0.0.8
-
-Added Stock Report
-Minimum Stock, Low Stock, Fast Moving Stock, Negative Stocks
-Returned Stocks
-Complete Stocks or All Stocks,
-and many more
