@@ -1,3 +1,6 @@
+1.0.2.2
+Fixed Invoice List Size when the list becomes more than 24
+
 1.0.2.1
 Fixed bugs in purchase 
 
