@@ -1,20 +1,6 @@
+1.0.2.4
+Fixed invoice total balance problem
+
 1.0.2.3
 Added Dashboard in Mainform
-
-
-1.0.2.2
-Fixed Invoice List Size when the list becomes more than 24
-
-1.0.2.1
-Fixed bugs in purchase 
-
-1.0.2.0
-Added Invoice to pdf
-
-1.0.1.9
-Fixed Invoice QTY And Price bugs
-
-1.0.1.7
-Added Smart Search option in Settings
-
 
