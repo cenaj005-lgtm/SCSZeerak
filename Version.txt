@@ -1,3 +1,6 @@
+1.0.2.5
+Added Professional Export to PDF on Stock Report, Fixed minimum Stock on Add Stock 
+
 1.0.2.4
 Fixed invoice total balance problem
 
