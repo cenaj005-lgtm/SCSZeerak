@@ -1,3 +1,6 @@
+1.0.2.7
+Fixed Unexpected error in reports, Invoice Date
+
 1.0.2.6
 Fixed Minimum Stock, Invoice Date Problem
 
