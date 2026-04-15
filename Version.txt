@@ -1,3 +1,6 @@
+1.0.2.8
+Fixed Sales Report Profits
+
 1.0.2.7
 Fixed Unexpected error in reports, Invoice Date
 
