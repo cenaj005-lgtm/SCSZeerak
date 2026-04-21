@@ -1,3 +1,6 @@
+1.0.3.0
+Changed Invoice Design
+
 1.0.2.9
 Bugs Fixed on Sales Reports
 
