@@ -1,3 +1,6 @@
+1.0.3.5
+Fixed invoice bug (when writting half barcode and clicking outside it shows the general search form)
+
 1.0.3.4
 Fixed Invoice missing description text sometimes
 
