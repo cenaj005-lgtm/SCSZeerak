@@ -1,3 +1,6 @@
+1.0.3.8
+Fixed UI (Delete button in columns) Glitch in Invoice form 
+
 1.0.3.7
 Fixed Some bugs on Add Stock
 
