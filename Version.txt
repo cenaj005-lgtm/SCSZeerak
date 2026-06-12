@@ -1,3 +1,6 @@
+1.0.4.1
+Stock list table in Invoice form – added manual resizing (was too small after code entry)
+
 1.0.4.0
 Fixed invoice print format
 
