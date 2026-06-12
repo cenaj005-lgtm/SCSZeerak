@@ -1,3 +1,12 @@
+1.0.4.2
+Major Updates in Ledgers & Registrations of Customer/Supplier
+- Added supplier search with QuickPersonRegistrationModal (mirroring invoice customer flow)
+- Improved Customer/Supplier ledger consistency
+- Enhanced registration forms for both parties
+- Fixed supplier address loading after selection
+- General search now supports supplier info procedure
+- Focus moves to grid barcode after supplier selection
+
 1.0.4.1
 Stock list table in Invoice form – added manual resizing (was too small after code entry)
 
