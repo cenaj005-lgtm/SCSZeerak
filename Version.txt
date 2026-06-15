@@ -1,3 +1,6 @@
+1.0.4.3
+UI Glitche Fixes
+
 1.0.4.2
 Major Updates in Ledgers & Registrations of Customer/Supplier
 - Added supplier search with QuickPersonRegistrationModal (mirroring invoice customer flow)
