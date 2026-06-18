@@ -1,3 +1,10 @@
+1.0.4.4
+- Added Users management form with encrypted passwords
+- Added User Permissions system (row-based dynamic permissions)
+- Updated login to support encrypted passwords
+- Database migration for existing passwords
+- Various UI improvements and bug fixes
+
 1.0.4.3
 UI Glitche Fixes
 
