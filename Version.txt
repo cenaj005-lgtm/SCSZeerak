@@ -1,3 +1,9 @@
+1.0.4.5
+- Search now works across all products – when you type a product name or barcode, you’ll see results from the whole list, not just the ones already on the screen.
+- Faster loading – we keep only 200 products on screen at a time, so the form stays fast even if you have thousands of items.
+- Scroll to load more – as you scroll down, more products appear automatically, and the search still works while scrolling.
+- Fixed a missing scroll error – the form no longer crashes when you scroll.
+
 1.0.4.4
 - Added Users management form with encrypted passwords
 - Added User Permissions system (row-based dynamic permissions)
