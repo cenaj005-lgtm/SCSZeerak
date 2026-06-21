@@ -1,3 +1,9 @@
+1.0.4.6
+- **New Invoice Template (Pharma Style)** – you can now switch between two invoice formats.  
+  Go to **Settings → Printer Settings → Invoice Template** and select your preferred layout.  
+  A live preview of the selected template appears on the right side of the panel.
+- **Custom Template Requests** – if you have your own invoice design and want it added, send me your format on WhatsApp: **+93780816197**. I’ll review and include it in a future update.
+
 1.0.4.5
 - Search now works across all products – when you type a product name or barcode, you’ll see results from the whole list, not just the ones already on the screen.
 - Faster loading – we keep only 200 products on screen at a time, so the form stays fast even if you have thousands of items.
