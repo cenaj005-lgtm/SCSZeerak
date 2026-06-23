@@ -1,6 +1,7 @@
 1.0.4.7
-
-Some fixes in invoice when editing old invoices 
+Some fixes in invoice when editing old invoices,
+added reports to show all Customer Balances
+you can check it in Reports>د مشتریانو حسابونه
 
 1.0.4.6
 - **New Invoice Template (Pharma Style)** – you can now switch between two invoice formats.  
