@@ -1,3 +1,6 @@
+1.0.4.8
+redesigned export option of invoice 
+
 1.0.4.7
 Some fixes in invoice when editing old invoices,
 added reports to show all Customer Balances
