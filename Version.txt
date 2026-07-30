@@ -1,3 +1,8 @@
+1.0.5.2
+Added Discount columns in Add Stock Form, 
+to enable it Go to Settings> Purchase Settings
+Check Discount1 or Discount2
+
 1.0.5.1
 Fixed Balance in ledgers
 
