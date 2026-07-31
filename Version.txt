@@ -1,3 +1,8 @@
+1.0.5.3 Update
+* Net Profit (Profit - expense) and separated Profit – Now displayed separately on the Dashboard
+* Pashto Invoice Format – Added to the Invoice Form
+* Company Logo – You can now add your logo to invoices
+
 1.0.5.2
 Added Discount columns in Add Stock Form, 
 to enable it Go to Settings> Purchase Settings
