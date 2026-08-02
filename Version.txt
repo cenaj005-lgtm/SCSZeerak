@@ -1,4 +1,7 @@
-1.0.5.3 Update
+1.0.5.4
+Some improvement in Invoice Formats, number of items in Invoice form
+
+1.0.5.3
 * Net Profit (Profit - expense) and separated Profit – Now displayed separately on the Dashboard
 * Pashto Invoice Format – Added to the Invoice Form
 * Company Logo – You can now add your logo to invoices
