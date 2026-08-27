@@ -1,3 +1,10 @@
+1.0.5.5
+* Added critical updates and stability improvements to the Invoice Form.
+* Improved handling of invoice editing, including better data consistency and refresh logic.
+* Enhanced performance and reliability when modifying existing invoices.
+* Fixed minor issues related to invoice recalculation and item updates.
+
+
 1.0.5.4
 Some improvement in Invoice Formats, number of items in Invoice form
 
