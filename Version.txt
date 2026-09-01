@@ -1,3 +1,6 @@
+1.0.5.7
+* Fixed Freezing / Auto close
+
 1.0.5.6
 * Added critical updates and stability improvements to the Invoice Form.
 * Improved handling of invoice editing, including better data consistency and refresh logic.
