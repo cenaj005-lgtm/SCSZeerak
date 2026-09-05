@@ -1,3 +1,6 @@
+1.0.5.8
+* Fixed Thermal invoice Printing half invoice
+
 1.0.5.7
 * Fixed Freezing / Auto close
 
