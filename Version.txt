@@ -1,3 +1,6 @@
+1.0.6.0
+* Speed improvement in invoice
+
 1.0.5.9
 * added borders in thermal printer
 
