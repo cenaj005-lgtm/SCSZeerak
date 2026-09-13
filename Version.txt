@@ -1,3 +1,8 @@
+1.0.6.1
+* Some UI Changes in Dashboard
+* Added د عرضه کوونکی حسابونه
+* changed Add Stock Color so you can differentiate the Invoice/Add Stock 
+
 1.0.6.0
 * Speed improvement in invoice
 
