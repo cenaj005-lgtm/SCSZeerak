@@ -1,3 +1,6 @@
+1.0.6.3
+Changed Gridview color
+
 1.0.6.2
 * Added Cash Flow in Dashboard 
 * Added some colors in Purchase Price/ Sale Price of Item Searching in Invoice
