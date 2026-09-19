@@ -1,3 +1,6 @@
+1.0.6.4
+Changed the design of tables to looks likes excel
+
 1.0.6.3
 Changed Gridview color
 
