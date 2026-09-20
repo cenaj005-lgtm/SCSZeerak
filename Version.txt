@@ -1,3 +1,6 @@
+1.0.6.5
+added cash in and out in dashboard
+
 1.0.6.4
 Changed the design of tables to looks likes excel
 
