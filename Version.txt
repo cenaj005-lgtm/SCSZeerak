@@ -1,3 +1,6 @@
+1.0.6.7
+Now you can use this database in both mobile and laptop, added some easiness in barcode printing
+
 1.0.6.5
 added cash in and out in dashboard
 
