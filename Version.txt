@@ -1,4 +1,5 @@
 1.0.6.7
+Added Currency Option in 
 Now you can use this database in both mobile and laptop, added some easiness in barcode printing
 
 1.0.6.5
