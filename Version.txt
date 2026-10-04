@@ -1,3 +1,8 @@
+1.0.7.0
+Notification print was not correct for Thermal (Small Invoices),
+now you can check the detailed report directly in Dashboard without exporting to Excel,
+in Invoice history you can check person contact also
+
 1.0.6.9
 Added Barcode Print Settings and some other features.
 
