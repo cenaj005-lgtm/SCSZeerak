@@ -1,3 +1,6 @@
+1.0.6.9
+Added Barcode Print Settings and some other features.
+
 1.0.6.8
 added previous balance in thermal printing, and some other performance speed
 
