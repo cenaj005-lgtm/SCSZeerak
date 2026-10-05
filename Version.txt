@@ -1,3 +1,9 @@
+1.0.7.1
+Sales Report:
+Return QTY in Sales Reports are in red colors,
+
+added Signature, Stamp upload the stamp and logo files, it will be auto printed in next invoices
+
 1.0.7.0
 Notification print was not correct for Thermal (Small Invoices),
 now you can check the detailed report directly in Dashboard without exporting to Excel,
