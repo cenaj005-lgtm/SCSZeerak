@@ -1,2 +1,4 @@
+https://github.com/cenaj005-lgtm/SCSZeerak/raw/main/Telerik.WinControls.GridView.xml
+https://github.com/cenaj005-lgtm/SCSZeerak/blob/raw/Telerik.WinControls.GridView.dll
 https://github.com/cenaj005-lgtm/SCSZeerak/raw/main/SCSZeerak.zip
 https://github.com/cenaj005-lgtm/SCSZeerak/raw/main/SCS%20Zeerak.exe
