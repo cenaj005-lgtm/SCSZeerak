@@ -1,3 +1,10 @@
+1.0.7.2
+
+Credit bills now include a return date, with a reminder while a balance is still due.
+Ledgers are easier to search, read, and print.
+Barcode labels have been updated.
+The sales report is easier to open and review.
+
 1.0.7.1
 Sales Report:
 Return QTY in Sales Reports are in red colors,
