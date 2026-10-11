@@ -1,3 +1,13 @@
+1.0.7.4
+- Fixed intermittent missing products in Stock Management/Invoice.
+- Simplified Change Stock.
+- Redesigned Ledgers for faster customer lookup and decisions.
+- Main Menu: added recent-app shortcuts.
+- Updated Invoice and Add Stock designs.
+- Faster product search in Invoice and Add Stock.
+- Fixed missing contact after editing old invoices.
+
+
 1.0.7.2
 
 Credit bills now include a return date, with a reminder while a balance is still due.
