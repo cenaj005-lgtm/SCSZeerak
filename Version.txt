@@ -1,3 +1,9 @@
+1.0.7.5
+Confirmation on closing the software
+Added Barcode for Barcode Printer:
+go to Settings > Barcode Settings>
+Label Template: 10) Barcode printer 20x 10 mm -- 2 columns (45mm roll)
+
 1.0.7.4
 - Fixed intermittent missing products in Stock Management/Invoice.
 - Simplified Change Stock.
