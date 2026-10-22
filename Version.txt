@@ -1,10 +1,5 @@
-1.0.7.6
-* Added SalesMan, you can add salesman per percentage of all products and so per Salary
-* Now you can Trace Deleted Invoices/ Purchases
-* Added Recent Transactions
-* Fixed د مشتریانو حسابی
-* UI Freezing in Printing Barcode is fixed
-* Added Favourite Contacts in Ledgers
-* Added a Notification Sound which can be disabled through 
-* Added Notes, Now you can add a notes of something and get a reminder with notification
-* UI Glitches/Fixes
+1.0.7.7
+* Now you can return old invoice directly from history and loading from invoice number
+* Changed Reports Design to make things looks clearer
+* in invoice Press F1 to Add a new stock directly and so in same time sell that item
+* Attach Files in notes, check history of notes which you have edited
