@@ -1,12 +1,7 @@
-1.0.7.8
+1.0.7.9
 * Some products were not searching like before, fixed it
-* added a new User for salesman, so they wont be able to check your reports and other financial details
-  username: user    password: user
 * when opening invoice form or add stock form it automatically load the old data 
   ( now you can disable it from Settings>Invoice Settings and Settings>Purchase Settings )
-
-1.0.7.7
-* Now you can return old invoice directly from history and loading from invoice number
-* Changed Reports Design to make things looks clearer
-* in invoice Press F1 to Add a new stock directly and so in same time sell that item
-* Attach Files in notes, check history of notes which you have edited
+* some changes in salesman ledgers
+* UI Changes
+* Added Shortcuts
