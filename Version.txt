@@ -1,3 +1,2 @@
-1.0.8.0
-* Performance speedup
-* removed leading .00s from reports
+1.0.8.1
+* invoice form performance fix
