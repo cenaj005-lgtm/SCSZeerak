@@ -1,2 +1,5 @@
+1.0.8.4
+Returns: an invoice that was already returned can no longer be returned again. The invoice screen refuses the second return and shows the existing return number.
+
 1.0.8.2
 * invoice form performance fix
