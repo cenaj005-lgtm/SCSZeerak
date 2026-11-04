@@ -1,3 +1,7 @@
+1.0.8.5
+PDF Export - Pashto and Arabic text
+Customer Ledger and the other PDF exports printed Pashto/Arabic names, notes and headings in reverse with separated letters. They are now joined and ordered right to left, so exported PDFs read correctly.
+
 1.0.8.4
 Returns: an invoice that was already returned can no longer be returned again. The invoice screen refuses the second return and shows the existing return number.
 
