@@ -1,3 +1,6 @@
+1.0.8.6
+Purchase: the General Search list now answers Up/Down/PageUp/PageDown/Home/End, and picking a product jumps straight into the Qty cell ready for typing.
+
 1.0.8.5
 PDF Export - Pashto and Arabic text
 Customer Ledger and the other PDF exports printed Pashto/Arabic names, notes and headings in reverse with separated letters. They are now joined and ordered right to left, so exported PDFs read correctly.
