@@ -1,3 +1,6 @@
+1.0.8.7
+Barcode labels: shop name option with a short label name, barcode numbers toggle, sale price below/right/left of the bars, product description on the label, text that shrinks to fit, and the last sticker is no longer cut by the printer.
+
 1.0.8.6
 Purchase: the General Search list now answers Up/Down/PageUp/PageDown/Home/End, and picking a product jumps straight into the Qty cell ready for typing.
 
