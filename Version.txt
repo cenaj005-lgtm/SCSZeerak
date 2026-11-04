@@ -1,3 +1,6 @@
+1.0.8.8
+Barcode labels: new 20x30 mm portrait template (2 columns, 45 mm roll). Shop name, barcode numbers, price position and description now apply to labels; text is centred and fitted and the digits are no longer cut.
+
 1.0.8.7
 Barcode labels: shop name option with a short label name, barcode numbers toggle, sale price below/right/left of the bars, product description on the label, text that shrinks to fit, and the last sticker is no longer cut by the printer.
 
