@@ -1,3 +1,6 @@
+1.0.9.1
+Barcode labels: template 11 is the 30x20 mm 2-column roll (1 mm sides, 2 mm gap, 64 mm row). Template 12 removed. Labels show shop name, barcode numbers, price position and a bold description, centred and fitted; digits no longer fall outside the label.
+
 1.0.9.0
 Barcode labels: template 11 is the 20x30 mm portrait roll (2 columns, 45 mm), template 12 removed, and templates 8/10/11 use the centred label design with barcode numbers, price position and bold description. Old stored template 11 keeps using the previous 50x30 size.
 
