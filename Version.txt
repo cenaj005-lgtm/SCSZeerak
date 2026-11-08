@@ -1,3 +1,6 @@
+1.0.9.4
+Barcode labels: the barcode numbers now print under the bars when 'Show barcode numbers' is enabled (the print path no longer hides them for the 30x20 template). Digits always get their own band - the product name and description shrink first, and label content is clipped to the sticker with 1.5 mm padding.
+
 1.0.9.3
 Barcode labels: label content is now clipped to the sticker with 1.5 mm inner padding, text shrinks with a safety margin, and the side price sits fully inside the label - nothing prints on the liner any more.
 
