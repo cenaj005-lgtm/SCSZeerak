@@ -1,4 +1,7 @@
 1.0.9.3
+Barcode labels: label content is now clipped to the sticker with 1.5 mm inner padding, text shrinks with a safety margin, and the side price sits fully inside the label - nothing prints on the liner any more.
+
+1.0.9.3
 Dashboard (phone/web): responsive card layout with an icon for every figure, a clearer date range, highlighted net profit, and cash in/out. The dashboard no longer stacks all figures in one column.
 
 1.0.9.2
