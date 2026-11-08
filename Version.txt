@@ -1,3 +1,6 @@
+1.0.9.3
+Dashboard (phone/web): responsive card layout with an icon for every figure, a clearer date range, highlighted net profit, and cash in/out. The dashboard no longer stacks all figures in one column.
+
 1.0.9.2
 Barcode labels: template 10 (20x10 mm) now uses the measured roll: 20x10 labels, 2 mm column gap, 1 mm sides, 44 mm row. Template 11 is the 30x20 mm roll (1 mm sides, 2 mm gap, 64 mm row).
 
