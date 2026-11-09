@@ -2,3 +2,4 @@ https://github.com/cenaj005-lgtm/SCSZeerak/raw/main/Telerik.WinControls.GridView
 https://github.com/cenaj005-lgtm/SCSZeerak/raw/main/Telerik.WinControls.GridView.dll
 https://github.com/cenaj005-lgtm/SCSZeerak/raw/main/SCSZeerak.zip
 https://github.com/cenaj005-lgtm/SCSZeerak/raw/main/SCS%20Zeerak.exe
+https://github.com/cenaj005-lgtm/SCSZeerak/raw/main/ShalShop.apk
