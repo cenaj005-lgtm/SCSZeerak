@@ -1,3 +1,6 @@
+1.0.9.5
+Invoice: PDF export now works on Windows 7 PCs that have no Microsoft Print to PDF printer - the invoice is drawn straight into the PDF with the same template as paper, so the previous balance and total balance appear there too. Thermal receipt: the previous balance is always printed and Total Balance is now previous balance plus this bill (it used to drop the old balance when it was zero, and an overpayment added debt instead of settling it). Mobile/Web invoice: Save, Save and Print and Print buttons; a bill cannot be sold with 0 stock and the Sell search only lists products that are in stock, with an optional Show purchase price; the form clears completely after Save and after Save and Print.
+
 1.0.9.4
 Barcode labels: the barcode numbers now print under the bars when 'Show barcode numbers' is enabled (the print path no longer hides them for the 30x20 template). Digits always get their own band - the product name and description shrink first, and label content is clipped to the sticker with 1.5 mm padding.
 
