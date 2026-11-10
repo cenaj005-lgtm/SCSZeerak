@@ -1,3 +1,6 @@
+1.0.9.7
+Web permissions: API routes now deny by default; dashboard requires Dashboard permission; shop settings require Settings permission while password/app downloads remain available to all; Stock editor requires Change Stock. iPhone/iPad Home Screen version added with PWA manifest, Apple touch icon, and Safari Add to Home Screen instructions. Invoice profit purchase-currency fix retained.
+
 1.0.9.6
 Web UI: new left sidebar on desktop and slide-out menu on phones, redesigned cards/forms. Invoice: mobile/web profit now converts the stock purchase price from PurchaseCurrencyCode before posting to Profit, matching WinForms. New portable SHAL Shop for Windows launcher and download links for Windows and Android.
 
