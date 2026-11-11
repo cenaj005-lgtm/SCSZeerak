@@ -1,3 +1,6 @@
+1.0.9.8
+Removed all advertising code from the Android app: AdMob, UMP consent, ad unit IDs, banner layout, and ad SDK dependencies. Rebuilt the ad-free APK (versionCode 2) and desktop package with the APK embedded. Updater 1.0.0.3 skips existing files when the product version is unchanged, repairs only missing files, and downloads all listed files when the version changes. Web permissions, iPhone/PWA support, and invoice profit fixes retained.
+
 1.0.9.7
 Web permissions: API routes now deny by default; dashboard requires Dashboard permission; shop settings require Settings permission while password/app downloads remain available to all; Stock editor requires Change Stock. iPhone/iPad Home Screen version added with PWA manifest, Apple touch icon, and Safari Add to Home Screen instructions. Invoice profit purchase-currency fix retained.
 
