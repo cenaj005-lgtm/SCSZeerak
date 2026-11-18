@@ -1,3 +1,6 @@
+1.0.9.9
+Purchase barcodes: one press of a row's Print button sent two print jobs, so Qty 10 came out as 20 stickers. It now prints exactly the quantity, the row Delete button can no longer remove a second line from one click, and the product description is cached so printing no longer freezes for about a second per label.
+
 1.0.9.8
 Removed all advertising code from the Android app: AdMob, UMP consent, ad unit IDs, banner layout, and ad SDK dependencies. Rebuilt the ad-free APK (versionCode 2) and desktop package with the APK embedded. Updater 1.0.0.3 skips existing files when the product version is unchanged, repairs only missing files, and downloads all listed files when the version changes. Web permissions, iPhone/PWA support, and invoice profit fixes retained.
 
