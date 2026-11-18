@@ -1,3 +1,6 @@
+1.1.0.0
+Purchase form: Pashto text in the confirmation and warning messages was showing as garbage characters (source text was corrupted) and is correct again. Includes the latest barcode printing fixes.
+
 1.0.9.9
 Purchase barcodes: one press of a row's Print button sent two print jobs, so Qty 10 came out as 20 stickers. It now prints exactly the quantity, the row Delete button can no longer remove a second line from one click, and the product description is cached so printing no longer freezes for about a second per label.
 
