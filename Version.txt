@@ -1,3 +1,6 @@
+1.1.0.1
+Barcode labels: printing no longer freezes the window - the job runs on a background thread and clicks made meanwhile are ignored. 20x10 labels keep the price in its own column, the content is shifted left to fit, padding is symmetric, and the barcode numbers stay inside the sticker.
+
 1.1.0.0
 Purchase form: Pashto text in the confirmation and warning messages was showing as garbage characters (source text was corrupted) and is correct again. Includes the latest barcode printing fixes.
 
